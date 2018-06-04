@@ -64,7 +64,7 @@ together daily throughout the project.
 > At regular intervals, the team reflects on how 
 > to become more effective, then tunes and adjusts 
 > its behavior accordingly.
-> (© 2001, [the authors of the agile manifesto](http://agilemanifesto.org/)
+> (© 2001, [the authors of the agile manifesto](http://agilemanifesto.org/))
 
 How should it look like with remote teams and work in it's focus? How does it change when we not only talk about software development, but agile work in all areas of the company?
 
