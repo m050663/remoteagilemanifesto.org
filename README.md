@@ -1,6 +1,6 @@
 ## Manifesto for Remote Agile Work
 
-We would like to work with the greatest remote teams, leaders and workers around the world to update and change the great [agile manifesto](http://agilemanifesto.org/) with our experience about remote work in it's focus.
+We would like to work with the greatest remote and agile working teams, agile leaders and workers around the world to update and change the great [agile manifesto](http://agilemanifesto.org/) with your and our experience about remote agile work in it's focus.
 
 The wonderful and today famous agile manifesto says:
 
@@ -66,6 +66,6 @@ together daily throughout the project.
 > its behavior accordingly.
 > (© 2001, [the authors of the agile manifesto](http://agilemanifesto.org/))
 
-How should it look like with remote teams and work in it's focus? How does it change when we not only talk about software development, but agile work in all areas of the company?
+How should it look like with remote agile teams and agile work in it's focus? How does it change when we not only talk about software development, but agile work in all areas of the company?
 
 Please contact us or just simply create a pull-request with your ideas/changes.
