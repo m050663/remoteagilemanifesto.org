@@ -69,3 +69,13 @@ together daily throughout the project.
 How should it look like with remote agile teams and agile work in it's focus? How does it change when we not only talk about software development, but agile work in all areas of the company?
 
 Please contact us or just simply create a pull-request with your ideas/changes.
+
+## Initiators, Authors & Signatories
+as we are in a very early stage .. pre-alpha, the list of authors and Signatories is short.
+
+| Author |        |
+| ------ | ------ |
+| Marcus Hildebrandt | Author of [Closeness at a distance](https://www.amazon.com/Closeness-Distance-Leading-Virtual-Performance-ebook/dp/B0165WNCW4)|
+| Tim Aßmann | Software Developer, [Blogger](https://medium.com/perspektiv-wechsel) and Co-Founder @ [jovoto](https://www.jovoto.com) |
+| You? | and many more good people to come |
+
