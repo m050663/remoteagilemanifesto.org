@@ -23,59 +23,72 @@ and it continues to with the 'Principles behind the Agile Manifesto'
 > ### Principles behind the Agile Manifesto
 > 
 > We follow these principles:
-> Our highest priority is to satisfy the customer
+> 1) Our highest priority is to satisfy the customer
 > through early and continuous delivery
 > of valuable software.
 > 
-> Welcome changing requirements, even late in 
+> 2) Welcome changing requirements, even late in 
 > development. Agile processes harness change for 
 > the customer's competitive advantage.
 > 
-> Deliver working software frequently, from a 
+> 3) Deliver working software frequently, from a 
 > couple of weeks to a couple of months, with a 
 > preference to the shorter timescale.
 > 
-> Business people and developers must work 
+> 4) Business people and developers must work 
 together daily throughout the project.
 > 
-> Build projects around motivated individuals. 
+> 5) Build projects around motivated individuals. 
 > Give them the environment and support they need, 
 > and trust them to get the job done.
 > 
-> The most efficient and effective method of 
+> 6) The most efficient and effective method of 
 > conveying information to and within a development 
 > team is face-to-face conversation.
 > 
-> Working software is the primary measure of progress.
+> 7) Working software is the primary measure of progress.
 > 
-> Agile processes promote sustainable development. 
+> 8) Agile processes promote sustainable development. 
 > The sponsors, developers, and users should be able 
 > to maintain a constant pace indefinitely.
 > 
-> Continuous attention to technical excellence 
+> 9) Continuous attention to technical excellence 
 > and good design enhances agility.
 > 
-> Simplicity--the art of maximizing the amount 
+> 10) Simplicity--the art of maximizing the amount 
 > of work not done--is essential.
 > 
-> The best architectures, requirements, and designs 
+> 11) The best architectures, requirements, and designs 
 > emerge from self-organizing teams.
 > 
-> At regular intervals, the team reflects on how 
+> 12) At regular intervals, the team reflects on how 
 > to become more effective, then tunes and adjusts 
 > its behavior accordingly.
 > (© 2001, [the authors of the agile manifesto](http://agilemanifesto.org/))
 
 How should it look like with remote agile teams and agile work in it's focus? How does it change when we not only talk about software development, but agile work in all areas of the company?
 
+A key point for us is to challenge principle 6). 
+According to the considerations in our book (see below) one should differentiate between 
+
+a) convergent communication scenarios (e.g. taking a decision, solving conflicts, solving problems, etc) and divergent scenarios (e.g. brainstorming, getting to know each other, etc.) and
+b) synchronous media (e.g. f2f, telephone, video conference, etc.) and asynchronous media (e.g. email, text messages, blog, etc.)
+Following our thoughts in our book one should use synchronous media for convergent communication scenarios.
+Thus in our language und with our expertise 6') could read:
+
+6') The most efficient and effective method of 
+> solving conflicts, making decisions, and similar converging communication scenarios is a synchronous conversation.
+
+We are looking forward to your feedback and possible enrichments.
+
 Please contact us or just simply create a pull-request with your ideas/changes.
 
 ## Initiators, Authors & Signatories
-as we are in a very early stage .. pre-alpha, the list of authors and Signatories is short.
+as we are in a very early stage .. pre-alpha, the list of authors and signatories is short.
 
 | Author |        |
 | ------ | ------ |
-| Marcus Hildebrandt | Author of [Closeness at a distance](https://www.amazon.com/Closeness-Distance-Leading-Virtual-Performance-ebook/dp/B0165WNCW4)|
+| Dr. Marcus Hildebrandt | Co-Author of [Closeness at a Distance: Leading Virtual Groups to High Performance](https://www.amazon.com/Closeness-Distance-Leading-Virtual-Performance-ebook/dp/B0165WNCW4)|
 | Tim Aßmann | Software Developer, [Blogger](https://medium.com/perspektiv-wechsel) and Co-Founder @ [jovoto](https://www.jovoto.com) |
 | You? | and many more good people to come |
 
